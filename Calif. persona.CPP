@@ -1,4 +1,5 @@
 /* Programa que despliega mensajes en base a la edad de una persona */
+
 #include<stdio.h>
 #include<conio.h>
 int edad;
